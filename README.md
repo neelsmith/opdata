@@ -19,6 +19,8 @@ Example line from `csv` file:
     urn:cite:openpal:team1.1,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@τ[1],τ,"urn:cite:hmt:vaimg.VA024RN-0025@0.1702,0.5522,0.025,0.021",tau
 
 
+Or look at the data file for the Venetus in the repository [here](https://github.com/neelsmith/opdata/blob/master/data/venetusA.csv).
+
 ## Organization of teams ##
 
 Data are kept in the `data` directory with individual files for each manuscript or document surveyed.
