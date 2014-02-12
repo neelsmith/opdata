@@ -23,5 +23,5 @@ Example line from `csv` file:
 
 Data are kept in the `data` directory with individual files for each manuscript or document surveyed.
 
-URNs for contributing teams, the texts they are assigned, and references to appropriate URNs and ICT installations for their project are currently being managed through the project wiki.
+URNs for contributing teams, the texts they are assigned, and references to appropriate URNs and ICT installations for their project are currently being managed through [the project wiki](https://github.com/neelsmith/opdata/wiki).
 
