@@ -18,3 +18,10 @@ Example line from `csv` file:
 
     urn:cite:openpal:team1.1,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@τ[1],τ,"urn:cite:hmt:vaimg.VA024RN-0025@0.1702,0.5522,0.025,0.021",tau
 
+
+## Organization of teams ##
+
+Data are kept in the `data` directory with individual files for each manuscript or document surveyed.
+
+URNs for contributing teams, the texts they are assigned, and references to appropriate URNs and ICT installations for their project are currently being managed through the project wiki.
+
