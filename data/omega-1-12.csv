@@ -1,33 +1,31 @@
 ObservationId,TextUrn,TextReading,ImageReference,Comments
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@τ[1],τ,,tau
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ι[1],ι,,iota
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@μ[1],μ,,mu
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@η[1],η,,eta
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@σ[1],σ,,sigma
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@η[2],η,,eta
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ο[1],ο,,omicron
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@λ[1],λ,,lambda
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ε[1],ε,,epsilon
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@σ[2],σ,,sigma
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@η[3],η,,eta
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@δε[1],δε,,abbreviation for δε
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@π[1],π,,pi
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ο[2],ο,,omicron
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@λ[2],λ,,lambda
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ε[3],ε,,epsilon
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ασ[1],ασ,,abbreviation for fem. acc. pl. ending
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ε[4],ε,,epsilon
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@π[2],π,,pi
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ι[2],ι,,iota
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ν[1],ν,,nu
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@η[4],η,,eta
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@υ[1],υ,,upsilon
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@σ[4],σ,,sigma
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ιν[0],ιν,,abbreviation for dat. pl. ending
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@α[2],α,,alpha
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@χ[1],χ,,chi
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@α[3],α,,alpha
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ι[6],ι,,iota
-urn:cite:openpal:TBA.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ων[1],ων,,abbreviation for gen. pl. ending
-
-
+urn:cite:openpal:team5.1,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@τ[1],τ,"urn:cite:hmt:e4img.e4_537@0.089,0.2187,0.015,0.012",tau
+urn:cite:openpal:team5.2,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ι[1],ι,"urn:cite:hmt:e4img.e4_537@0.1,0.2153,0.009,0.0153",iota
+urn:cite:openpal:team5.3,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@μ[1],μ,"urn:cite:hmt:e4img.e4_537@0.105,0.218,0.02,0.012",mu
+urn:cite:openpal:team5.4,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@η[1],η,"urn:cite:hmt:e4img.e4_537@0.118,0.218,0.014,0.012",eta
+urn:cite:openpal:team5.5,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@σ[1],σ,"urn:cite:hmt:e4img.e4_537@0.128,0.2153,0.016,0.0133",sigma
+urn:cite:openpal:team5.6,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@η[2],η,"urn:cite:hmt:e4img.e4_537@0.139,0.2153,0.015,0.012",eta
+urn:cite:openpal:team5.7,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ο[1],ο,"urn:cite:hmt:e4img.e4_537@0.154,0.2167,0.013,0.0087",omicron
+urn:cite:openpal:team5.8,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@λ[1],λ,"urn:cite:hmt:e4img.e4_537@0.162,0.2127,0.014,0.0153",lambda
+urn:cite:openpal:team5.9,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ε[1],ε,"urn:cite:hmt:e4img.e4_537@0.171,0.2153,0.01,0.0107",epsilon
+urn:cite:openpal:team5.10,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@σ[2],σ,"urn:cite:hmt:e4img.e4_537@0.178,0.2153,0.016,0.0107",sigma
+urn:cite:openpal:team5.11,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@η[3],η,"urn:cite:hmt:e4img.e4_537@0.191,0.2153,0.014,0.0107",eta
+urn:cite:openpal:team5.12,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@δε[1],δε,"urn:cite:hmt:e4img.e4_537@0.202,0.2153,0.016,0.0153",abbreviation for δε
+urn:cite:openpal:team5.13,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@π[1],π,"urn:cite:hmt:e4img.e4_537@0.215,0.2153,0.021,0.0107",pi
+urn:cite:openpal:team5.14,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ο[2],ο,"urn:cite:hmt:e4img.e4_537@0.232,0.2153,0.013,0.0093",omicron
+urn:cite:openpal:team5.15,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@λ[2],λ,"urn:cite:hmt:e4img.e4_537@0.244,0.2127,0.016,0.012",lambda
+urn:cite:openpal:team5.16,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ε[3],ε,"urn:cite:hmt:e4img.e4_537@0.256,0.2153,0.013,0.0093",epsilon
+urn:cite:openpal:team5.17,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ασ[1],ασ,"urn:cite:hmt:e4img.e4_537@0.255,0.2073,0.019,0.01",abbreviation for fem. acc. pl. ending
+urn:cite:openpal:team5.18,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ε[4],ε,"urn:cite:hmt:e4img.e4_537@0.27,0.21,0.013,0.0147",epsilon
+urn:cite:openpal:team5.19,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@π[2],π,"urn:cite:hmt:e4img.e4_537@0.278,0.2133,0.017,0.0113",pi
+urn:cite:openpal:team5.20,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ι[2],ι,"urn:cite:hmt:e4img.e4_537@0.292,0.2153,0.01,0.01",iota
+urn:cite:openpal:team5.21,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ν[1],ν,"urn:cite:hmt:e4img.e4_537@0.3,0.2153,0.015,0.012",nu
+urn:cite:openpal:team5.22,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@η[4],η,"urn:cite:hmt:e4img.e4_537@0.314,0.2153,0.013,0.0093",eta
+urn:cite:openpal:team5.23,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@υ[1],υ,"urn:cite:hmt:e4img.e4_537@0.327,0.2153,0.011,0.0093",upsilon
+urn:cite:openpal:team5.24,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@σ[4],σ,"urn:cite:hmt:e4img.e4_537@0.334,0.2153,0.015,0.0093",sigma
+urn:cite:openpal:team5.25,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ιν[0],ιν,"urn:cite:hmt:e4img.e4_537@0.336,0.2067,0.01,0.01",abbreviation for dat. pl. ending
+urn:cite:openpal:team5.26,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@αχ[1],αχ,"urn:cite:hmt:e4img.e4_537@0.346,0.2127,0.027,0.0133",alpha-chi ligature
+urn:cite:openpal:team5.27,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@α[3],α,"urn:cite:hmt:e4img.e4_537@0.366,0.2147,0.017,0.0073",alpha
+urn:cite:openpal:team5.28,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ι[6],ι,"urn:cite:hmt:e4img.e4_537@0.379,0.2147,0.008,0.0107",iota
+urn:cite:openpal:team5.29,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ω[1],ω,"urn:cite:hmt:e4img.e4_537@0.385,0.2133,0.017,0.0107",omega
+urn:cite:openpal:team5.30,urn:cts:greekLit:tlg0012.tlg001.e4:2.4@ν[2],ν,"urn:cite:hmt:e4img.e4_537@0.394,0.2087,0.015,0.0067",nu abbreviation
