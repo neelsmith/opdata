@@ -1,10 +1,10 @@
 ObservationId,TextUrn,TextReading,ImageReference,Comments
 urn:cite:openpal:team1.1,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@τ[1],τ,"urn:cite:hmt:vaimg.VA024RN-0025@0.1702,0.5522,0.025,0.021",tau
 urn:cite:openpal:team1.2,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@ι[1],ι,"urn:cite:hmt:vaimg.VA024RN-0025@0.1852,0.5537,0.014,0.0143",iota
-urn:cite:openpal:team1.3,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@μ[1],μ,,mu
-urn:cite:openpal:team1.4,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@η[1],η,,eta
-urn:cite:openpal:team1.5,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@σ[1],σ,,sigma
-urn:cite:openpal:team1.6,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@η[2],η,,eta
+urn:cite:openpal:team1.3,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@μ[1],μ,urn:cite:hmt:vaimg.VA024RN-0025@0.194,0.5533,0.02,0.0143,mu
+urn:cite:openpal:team1.4,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@η[1],η,urn:cite:hmt:vaimg.VA024RN-0025@0.207,0.5533,0.02,0.0143,eta
+urn:cite:openpal:team1.5,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@σ[1],σ,urn:cite:hmt:vaimg.VA024RN-0025@0.219,0.5533,0.02,0.0143,sigma
+urn:cite:openpal:team1.6,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@η[2],η,urn:cite:hmt:vaimg.VA024RN-0025@0.234,0.5518,0.016,0.0143,eta
 urn:cite:openpal:team1.7,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@ι[2],ι,,iota
 urn:cite:openpal:team1.8,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@ι[1],ε,,epsilon
 urn:cite:openpal:team1.9,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@ι[3],ι,,iota
