@@ -7,6 +7,21 @@ import edu.harvard.chs.cite.CtsUrn
 
 Integer debug = 0
 
+
+
+
+def msOrder = ["msA", "e3", "msB", "e4", "ge", "vgf64"]
+def titles = [
+  "msA": "Venetus A (10th c.)", 
+  "e3": "Esc. Upsilon 1.1 (11th c.)",
+  "msB": "Venetus B (11th c.)",
+  "e4": "Esc. Omega 1.12 (11th c.)",
+  "ge": "Gen. 44 (13th c.)",
+  "vgf64": "Leiden Voss. 64 (15th c.)"
+]
+
+
+
 String imgBase = "http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetBinaryImage&w=9000&urn="
 
 
@@ -33,20 +48,6 @@ reader.readAll().each { ln ->
 
 
 // find by triple[2], group by triple[0], img value is triple[1]
-
-
-
-def msOrder = ["msA", "e3", "msB", "e4", "ge", "vgf64"]
-
-def titles = [
-  "msA": "Venetus A", 
-  "e3": "Esc. Upsilon 1.1",
-  "msB": "Venetus B",
-  "e4": "Esc. Omega 1.12",
-  "ge": "Gen. 44",
-  "vgf64": "Leiden Voss. 64"
-]
-
 def featureSet = allData.groupBy { it[2] }
 
 
