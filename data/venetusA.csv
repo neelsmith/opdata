@@ -17,12 +17,11 @@ urn:cite:openpal:team1.16,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@δ[0],δ,"urn:
 urn:cite:openpal:team1.17,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@ε[3],ε,"urn:cite:hmt:vaimg.VA024RN-0025@0.327,0.5511,0.016,0.0135",epsilon
 urn:cite:openpal:team1.18,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@π[1],π,"urn:cite:hmt:vaimg.VA024RN-0025@0.341,0.5533,0.014,0.0135",pi
 urn:cite:openpal:team1.19,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@ο[2],ο,"urn:cite:hmt:vaimg.VA024RN-0025@0.352,0.5556,0.011,0.009",omicron
-urn:cite:openpal:team1.20,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@λ[2],λ,,lambda
-urn:cite:openpal:team1.21,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@ε[4],ε,,epsilon
-urn:cite:openpal:team1.22,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@α[1],α,,alpha
-urn:cite:openpal:team1.23,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@σ[3],σ,,sigma
-urn:cite:openpal:team1.24,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@ε[5],ε,,epsilon
-urn:cite:openpal:team1.25,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@π[2],π,,pi
+urn:cite:openpal:team1.20,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@λ[2],λ,"urn:cite:hmt:vaimg.VA024RN-0025@0.347,0.5571,0.024,0.015",lambda
+urn:cite:openpal:team1.21,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@ε[4],ε,"urn:cite:hmt:vaimg.VA024RN-0025@0.366,0.5548,0.014,0.0105",epsilon
+urn:cite:openpal:team1.22,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@α[1],α,"urn:cite:hmt:vaimg.VA024RN-0025@0.378,0.5556,0.014,0.0105",alpha
+urn:cite:openpal:team1.23,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@σ[3],σ,"urn:cite:hmt:vaimg.VA024RN-0025@0.387,0.5571,0.014,0.0105",sigma
+urn:cite:openpal:team1.24,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@ε[5],ε,"urn:cite:hmt:vaimg.VA024RN-0025@0.402,0.5548,0.019,0.0105",epsilon-pi ligature
 urn:cite:openpal:team1.26,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@ι[5],ι,,iota
 urn:cite:openpal:team1.27,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@ν[1],ν,,nu
 urn:cite:openpal:team1.28,urn:cts:greekLit:tlg0012.tlg001.msA:2.4@η[4],η,,eta
