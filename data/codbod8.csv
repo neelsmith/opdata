@@ -1,1 +1,106 @@
 ObservationId,TextUrn,TextReading,ImageReference,Comments
+urn:cite:openpal:team3.1,[TextUrn]@τ[1],τ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7527,0.4591,0.0176,0.0104",tau
+urn:cite:openpal:team3.2,[TextUrn]@ο[1],ο,"urn:cite:ecod:codbod8.cb-0008_015v@0.7677,0.4591,0.0088,0.0104",omicron
+urn:cite:openpal:team3.3,[TextUrn]@υ[1],υ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7752,0.4591,0.0125,0.0113",upsilon
+urn:cite:openpal:team3.4,[TextUrn]@κ[1],κ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7903,0.4591,0.0138,0.0113",kappa
+urn:cite:openpal:team3.5,[TextUrn]@ώ[1],ώ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8028,0.4525,0.0188,0.018",omega with acute
+urn:cite:openpal:team3.6,[TextUrn]@ν[1],ν,"urn:cite:ecod:codbod8.cb-0008_015v@0.8191,0.4572,0.0113,0.0132",nu
+urn:cite:openpal:team3.7,[TextUrn]@ο[2],ο,"urn:cite:ecod:codbod8.cb-0008_015v@0.8292,0.4572,0.01,0.0132",omicron
+urn:cite:openpal:team3.8,[TextUrn]@υ[2],υ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8379,0.4572,0.0125,0.0161",upsilon
+urn:cite:openpal:team3.9,[TextUrn]@καὶ[1],καὶ,"urn:cite:ecod:codbod8.cb-0008_015v@0.868,0.4572,0.0263,0.0161",καὶ abbreviation
+urn:cite:openpal:team3.10,[TextUrn]@τ[2],τ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8919,0.461,0.0188,0.0123",tau
+urn:cite:openpal:team3.11,[TextUrn]@η[1],η,"urn:cite:ecod:codbod8.cb-0008_015v@0.8981,0.4534,0.0113,0.0104",eta
+urn:cite:openpal:team3.12,[TextUrn]@σ[1],σ,"urn:cite:ecod:codbod8.cb-0008_015v@0.9082,0.4525,0.01,0.0132",sigma
+urn:cite:openpal:team3.13,[TextUrn]@ε[1],ε,"urn:cite:ecod:codbod8.cb-0008_015v@0.715,0.4808,0.0125,0.0132",epsilon
+urn:cite:openpal:team3.14,[TextUrn]@κ[2],κ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7238,0.4808,0.0176,0.0132",kappa
+urn:cite:openpal:team3.15,[TextUrn]@τ[3],τ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7338,0.4704,0.0238,0.0236",tau
+urn:cite:openpal:team3.16,[TextUrn]@ο[3],ο,"urn:cite:ecod:codbod8.cb-0008_015v@0.7489,0.4818,0.01,0.0113",omicron
+urn:cite:openpal:team3.17,[TextUrn]@υ[3],υ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7564,0.4818,0.0113,0.0132",upsilon
+urn:cite:openpal:team3.18,[TextUrn]@κεν[1],κεν,"urn:cite:ecod:codbod8.cb-0008_015v@0.7727,0.4704,0.0351,0.0236",kappa-epsilon-nu ligature
+urn:cite:openpal:team3.19,[TextUrn]@τ[4],τ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8129,0.4808,0.0113,0.0113",tau
+urn:cite:openpal:team3.20,[TextUrn]@ρ[1],ρ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8204,0.4808,0.01,0.017",rho
+urn:cite:openpal:team3.21,[TextUrn]@ο[4],ο,"urn:cite:ecod:codbod8.cb-0008_015v@0.8317,0.4799,0.0088,0.0113",omicron
+urn:cite:openpal:team3.22,[TextUrn]@υ[4],υ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8392,0.4799,0.01,0.0113",upsilon
+urn:cite:openpal:team3.23,[TextUrn]@τ[5],τ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8605,0.4799,0.0188,0.0113",tau
+urn:cite:openpal:team3.24,[TextUrn]@ο[5],ο,"urn:cite:ecod:codbod8.cb-0008_015v@0.8756,0.4808,0.0113,0.0104",omicron
+urn:cite:openpal:team3.25,[TextUrn]@υ[5],υ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8843,0.4808,0.0138,0.018",upsilon
+urn:cite:openpal:team3.26,[TextUrn]@κ[3],κ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7163,0.5016,0.0151,0.0113",kappa
+urn:cite:openpal:team3.27,[TextUrn]@ύ[1],ύ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7288,0.4941,0.0113,0.0208",upsilon with acute
+urn:cite:openpal:team3.28,[TextUrn]@κ[4],κ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7376,0.5016,0.0188,0.0132",kappa
+urn:cite:openpal:team3.29,[TextUrn]@λ[1],λ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7514,0.4997,0.0238,0.0189",lambda
+urn:cite:openpal:team3.30,[TextUrn]@ο[6],ο,"urn:cite:ecod:codbod8.cb-0008_015v@0.7664,0.5026,0.0125,0.0095",omicron
+urn:cite:openpal:team3.31,[TextUrn]@υ[6],υ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7777,0.5016,0.0125,0.0104",upsilon
+urn:cite:openpal:team3.32,[TextUrn]@ο[7],ο,"urn:cite:ecod:codbod8.cb-0008_015v@0.8129,0.5026,0.0113,0.0104",omicron
+urn:cite:openpal:team3.33,[TextUrn]@σ[2],σ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8241,0.5016,0.0125,0.0113",sigma
+urn:cite:openpal:team3.34,[TextUrn]@εστ[1],εστ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8417,0.4912,0.0263,0.0265",epsilon-sigma-tau ligature
+urn:cite:openpal:team3.35,[TextUrn]@ι[1],ι,"urn:cite:ecod:codbod8.cb-0008_015v@0.8618,0.5026,0.0138,0.0151",iota
+urn:cite:openpal:team3.36,[TextUrn]@β[1],β,"urn:cite:ecod:codbod8.cb-0008_015v@0.8756,0.5026,0.0188,0.0151",beta
+urn:cite:openpal:team3.37,[TextUrn]@α[1],α,"urn:cite:ecod:codbod8.cb-0008_015v@0.8931,0.5026,0.0201,0.0151",alpha
+urn:cite:openpal:team3.38,[TextUrn]@σ[3],σ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7125,0.5234,0.0188,0.0151",sigma
+urn:cite:openpal:team3.39,[TextUrn]@ι[2],ι,"urn:cite:ecod:codbod8.cb-0008_015v@0.7301,0.5234,0.0075,0.0113",iota
+urn:cite:openpal:team3.40,[TextUrn]@σ[4],σ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7351,0.5253,0.0151,0.0104",sigma
+urn:cite:openpal:team3.41,[TextUrn]@τ[6],τ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7514,0.5253,0.0176,0.0123",tau
+urn:cite:openpal:team3.42,[TextUrn]@ο[8],ο,"urn:cite:ecod:codbod8.cb-0008_015v@0.7652,0.5253,0.01,0.0123",omicron
+urn:cite:openpal:team3.43,[TextUrn]@υ[7],υ,"urn:cite:ecod:codbod8.cb-0008_015v@0.774,0.5253,0.0113,0.0142",upsilon
+urn:cite:openpal:team3.44,[TextUrn]@κ[5],κ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7853,0.5253,0.0151,0.0095",kappa
+urn:cite:openpal:team3.45,[TextUrn]@ώ[2],ώ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7978,0.5186,0.0163,0.0161",omega with acute
+urn:cite:openpal:team3.46,[TextUrn]@ν[2],ν,"urn:cite:ecod:codbod8.cb-0008_015v@0.8103,0.5253,0.0125,0.0104",nu
+urn:cite:openpal:team3.47,[TextUrn]@ο[9],ο,"urn:cite:ecod:codbod8.cb-0008_015v@0.8204,0.5253,0.01,0.0104",omicron
+urn:cite:openpal:team3.48,[TextUrn]@υ[8],υ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8292,0.5253,0.0138,0.0132",upsilon
+urn:cite:openpal:team3.49,[TextUrn]@εστ[2],εστ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8655,0.5167,0.0288,0.0246",epsilon-sigma-tau ligature
+urn:cite:openpal:team3.50,[TextUrn]@ω[1],ω,"urn:cite:ecod:codbod8.cb-0008_015v@0.8894,0.5271,0.0176,0.0132",omega
+urn:cite:openpal:team3.51,[TextUrn]@κ[6],κ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7175,0.547,0.0151,0.0076",kappa
+urn:cite:openpal:team3.52,[TextUrn]@ω[2],ω,"urn:cite:ecod:codbod8.cb-0008_015v@0.7313,0.5451,0.0151,0.0113",omega
+urn:cite:openpal:team3.53,[TextUrn]@ν[3],ν,"urn:cite:ecod:codbod8.cb-0008_015v@0.7476,0.5451,0.0125,0.0113",nu
+urn:cite:openpal:team3.54,[TextUrn]@ο[10],ο,"urn:cite:ecod:codbod8.cb-0008_015v@0.7589,0.5451,0.01,0.0113",omicron
+urn:cite:openpal:team3.55,[TextUrn]@σ[5],σ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7664,0.5451,0.0138,0.0113",sigma
+urn:cite:openpal:team3.56,[TextUrn]@ι[2],ι,"urn:cite:ecod:codbod8.cb-0008_015v@0.7802,0.5451,0.0151,0.0113",iota
+urn:cite:openpal:team3.57,[TextUrn]@σ[6],σ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7928,0.5451,0.0163,0.0113",sigma
+urn:cite:openpal:team3.58,[TextUrn]@ο[11],ο,"urn:cite:ecod:codbod8.cb-0008_015v@0.8041,0.5451,0.0138,0.0113",omicron
+urn:cite:openpal:team3.59,[TextUrn]@σ[6],σ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8191,0.5451,0.0314,0.0132",sigma
+urn:cite:openpal:team3.60,[TextUrn]@κ[7],κ,"urn:cite:ecod:codbod8.cb-0008_015v@0.848,0.5451,0.0163,0.0132",kappa
+urn:cite:openpal:team3.61,[TextUrn]@ε[2],ε,"urn:cite:ecod:codbod8.cb-0008_015v@0.8618,0.5451,0.0151,0.0132",epsilon
+urn:cite:openpal:team3.62,[TextUrn]@λ[2],λ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8693,0.5451,0.0263,0.0161",lambda
+urn:cite:openpal:team3.63,[TextUrn]@η[2],η,"urn:cite:ecod:codbod8.cb-0008_015v@0.8856,0.5479,0.0125,0.0095",eta
+urn:cite:openpal:team3.64,[TextUrn]@σ[7],σ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8956,0.547,0.0088,0.0104",sigma
+urn:cite:openpal:team3.65,[TextUrn]@ο[12],ο,"urn:cite:ecod:codbod8.cb-0008_015v@0.7175,0.5678,0.0113,0.0095",omicron
+urn:cite:openpal:team3.66,[TextUrn]@υ[9],υ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7276,0.5668,0.0125,0.0104",upsilon
+urn:cite:openpal:team3.67,[TextUrn]@β[2],β,"urn:cite:ecod:codbod8.cb-0008_015v@0.7414,0.5612,0.0238,0.0161",beta
+urn:cite:openpal:team3.68,[TextUrn]@α[2],α,"urn:cite:ecod:codbod8.cb-0008_015v@0.7652,0.5659,0.0213,0.0104",alpha
+urn:cite:openpal:team3.69,[TextUrn]@σ[8],σ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7878,0.5659,0.0188,0.0104",sigma
+urn:cite:openpal:team3.70,[TextUrn]@ι[3],ι,"urn:cite:ecod:codbod8.cb-0008_015v@0.8041,0.565,0.0075,0.0113",iota
+urn:cite:openpal:team3.71,[TextUrn]@σ[9],σ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8103,0.565,0.0176,0.0113",sigma
+urn:cite:openpal:team3.72,[TextUrn]@ο[13],ο,"urn:cite:ecod:codbod8.cb-0008_015v@0.8292,0.5668,0.0125,0.0095",omicron
+urn:cite:openpal:team3.73,[TextUrn]@α[3],α,"urn:cite:ecod:codbod8.cb-0008_015v@0.8442,0.5631,0.0238,0.0151",label alpha
+urn:cite:openpal:team3.74,[TextUrn]@κ[8],κ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8705,0.5659,0.0201,0.0123",kappa
+urn:cite:openpal:team3.75,[TextUrn]@ύ[1],ύ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8881,0.5593,0.0138,0.0189",upsilon with acute
+urn:cite:openpal:team3.76,[TextUrn]@κ[9],κ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7188,0.5876,0.0163,0.0095",kappa
+urn:cite:openpal:team3.77,[TextUrn]@λ[3],λ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7301,0.5867,0.0213,0.0161",lambda
+urn:cite:openpal:team3.78,[TextUrn]@ο[14],ο,"urn:cite:ecod:codbod8.cb-0008_015v@0.7451,0.5876,0.0113,0.0104",omicron
+urn:cite:openpal:team3.79,[TextUrn]@σ[10],σ,"urn:cite:ecod:codbod8.cb-0008_015v@0.7539,0.5867,0.0125,0.0113",sigma
+urn:cite:openpal:team3.80,[TextUrn]@η[3],η,"urn:cite:ecod:codbod8.cb-0008_015v@0.7878,0.5886,0.0176,0.0123",eta
+urn:cite:openpal:team3.81,[TextUrn]@δ[1],δ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8066,0.5839,0.0201,0.0132",delta
+urn:cite:openpal:team3.82,[TextUrn]@ε[3],ε,"urn:cite:ecod:codbod8.cb-0008_015v@0.8204,0.5876,0.0163,0.0123",epsilon
+urn:cite:openpal:team3.83,[TextUrn]@ε[4],ε,"urn:cite:ecod:codbod8.cb-0008_015v@0.8442,0.5876,0.0125,0.0132",epsilon
+urn:cite:openpal:team3.84,[TextUrn]@κ[10],κ,"urn:cite:ecod:codbod8.cb-0008_015v@0.853,0.5876,0.0213,0.0132",kappa
+urn:cite:openpal:team3.85,[TextUrn]@τ[7],τ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8718,0.5876,0.0151,0.0132",tau
+urn:cite:openpal:team3.86,[TextUrn]@ο[15],ο,"urn:cite:ecod:codbod8.cb-0008_015v@0.8843,0.5876,0.0088,0.0132",omicron
+urn:cite:openpal:team3.87,[TextUrn]@υ[10],υ,"urn:cite:ecod:codbod8.cb-0008_015v@0.8919,0.5876,0.0125,0.0142",upsilon
+urn:cite:openpal:team3.88,[TextUrn]@κεν[2],κεν,"urn:cite:ecod:codbod8.cb-0008_015v@0.3839,0.6009,0.0452,0.0217",kappa-epsilon-nu ligature
+urn:cite:openpal:team3.89,[TextUrn]@τ[8],τ,"urn:cite:ecod:codbod8.cb-0008_015v@0.4278,0.6065,0.0138,0.0161",tau
+urn:cite:openpal:team3.90,[TextUrn]@ρ[2],ρ,"urn:cite:ecod:codbod8.cb-0008_015v@0.4366,0.6065,0.0125,0.018",rho
+urn:cite:openpal:team3.91,[TextUrn]@ο[16],ο,"urn:cite:ecod:codbod8.cb-0008_015v@0.4466,0.6065,0.0125,0.0123",omicron
+urn:cite:openpal:team3.92,[TextUrn]@υ[11],υ,"urn:cite:ecod:codbod8.cb-0008_015v@0.4554,0.6075,0.0151,0.0113",upsilon
+urn:cite:openpal:team3.93,[TextUrn]@ε[5],ε,"urn:cite:ecod:codbod8.cb-0008_015v@0.4818,0.6084,0.0151,0.0142",epsilon
+urn:cite:openpal:team3.94,[TextUrn]@στ[1],στ,"urn:cite:ecod:codbod8.cb-0008_015v@0.4955,0.6056,0.0151,0.017",sigma-tau ligature
+urn:cite:openpal:team3.95,[TextUrn]@ω[2],ω,"urn:cite:ecod:codbod8.cb-0008_015v@0.5081,0.6056,0.0163,0.017",omega
+urn:cite:openpal:team3.96,[TextUrn]@η[4],η,"urn:cite:ecod:codbod8.cb-0008_015v@0.5269,0.6075,0.0151,0.0151",eta
+urn:cite:openpal:team3.97,[TextUrn]@γ[1],γ,"urn:cite:ecod:codbod8.cb-0008_015v@0.542,0.6047,0.0213,0.0189",label gamma
+urn:cite:openpal:team3.98,[TextUrn]@τ[9],τ,"urn:cite:ecod:codbod8.cb-0008_015v@0.5946,0.6113,0.0213,0.0104",tau
+urn:cite:openpal:team3.99,[TextUrn]@η[5],η,"urn:cite:ecod:codbod8.cb-0008_015v@0.6122,0.6113,0.0138,0.0104",eta
+urn:cite:openpal:team3.100,[TextUrn]@δ[2],δ,"urn:cite:ecod:codbod8.cb-0008_015v@0.6222,0.6018,0.0226,0.0189",delta
+urn:cite:openpal:team3.101,[TextUrn]@ε[6],ε,"urn:cite:ecod:codbod8.cb-0008_015v@0.6435,0.6103,0.0125,0.0104",epsilon
+urn:cite:openpal:team3.102,[TextUrn]@π[1],π,"urn:cite:ecod:codbod8.cb-0008_015v@0.6573,0.6084,0.0288,0.0123",pi
+urn:cite:openpal:team3.103,[TextUrn]@λ[4],λ,"urn:cite:ecod:codbod8.cb-0008_015v@0.6812,0.6084,0.0188,0.0132",lambda
+urn:cite:openpal:team3.104,[TextUrn]@ευρ[1],ευρ,"urn:cite:ecod:codbod8.cb-0008_015v@0.6962,0.6037,0.0276,0.0189",epsilon-upsilon-rho ligature
+urn:cite:openpal:team3.105,[TextUrn]@α[4],α,"urn:cite:ecod:codbod8.cb-0008_015v@0.7213,0.6084,0.0238,0.0104",alpha
