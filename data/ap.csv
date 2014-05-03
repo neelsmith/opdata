@@ -1,1 +1,94 @@
 ObservationId,TextUrn,TextReading,ImageReference,Comments
+urn:cite:openpal:team3.1,[TextUrn]@τ[1],τ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2163,0.4247,0.0163,0.0113",tau
+urn:cite:openpal:team3.2,[TextUrn]@ο[1],ο,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2276,0.4237,0.0101,0.0113",omicron
+urn:cite:openpal:team3.3,[TextUrn]@υ[1],υ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2364,0.4237,0.0101,0.0104",upsilon
+urn:cite:openpal:team3.4,[TextUrn]@κ[1],κ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2464,0.419,0.0151,0.0151",kappa
+urn:cite:openpal:team3.5,[TextUrn]@ω[1],ω,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2603,0.4219,0.0151,0.0132",omega
+urn:cite:openpal:team3.6,[TextUrn]@ν[1],ν,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2728,0.4219,0.0163,0.016",nu
+urn:cite:openpal:team3.7,[TextUrn]@ο[2],ο,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2854,0.4219,0.0101,0.0113",omicron
+urn:cite:openpal:team3.8,[TextUrn]@υ[2],υ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2942,0.4209,0.0126,0.0123",upsilon
+urn:cite:openpal:team3.9,[TextUrn]@κ[2],κ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.308,0.4143,0.0138,0.0179",kappa
+urn:cite:openpal:team3.10,[TextUrn]@α[1],α,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3193,0.419,0.0126,0.0132",alpha
+urn:cite:openpal:team3.11,[TextUrn]@ι[1],ι,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3281,0.42,0.0113,0.0123",iota
+urn:cite:openpal:team3.12,[TextUrn]@τ[2],τ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3382,0.42,0.0126,0.0123",tau
+urn:cite:openpal:team3.13,[TextUrn]@η[1],η,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3482,0.4153,0.0126,0.017",eta
+urn:cite:openpal:team3.14,[TextUrn]@σ[1],σ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3583,0.4209,0.0163,0.0113",sigma
+urn:cite:openpal:team3.15,[TextUrn]@ε[1],ε,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3746,0.4162,0.0138,0.016",epsilon
+urn:cite:openpal:team3.16,[TextUrn]@κ[3],κ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3872,0.4143,0.0138,0.0179",kappa
+urn:cite:openpal:team3.17,[TextUrn]@τ[3],τ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3973,0.419,0.0138,0.0113",tau
+urn:cite:openpal:team3.18,[TextUrn]@ο[3],ο,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.4061,0.42,0.0126,0.0104",omicron
+urn:cite:openpal:team3.19,[TextUrn]@υ[3],υ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.4149,0.42,0.0113,0.0104",upsilon
+urn:cite:openpal:team3.20,[TextUrn]@κ[4],κ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.4287,0.4143,0.0113,0.016",kappa
+urn:cite:openpal:team3.21,[TextUrn]@ε[2],ε,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.4375,0.4143,0.0151,0.0132",epsilon
+urn:cite:openpal:team3.22,[TextUrn]@ν[2],ν,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.4513,0.419,0.0101,0.0132",nu
+urn:cite:openpal:team3.#,[TextUrn]@#[1],,"",
+urn:cite:openpal:team3.23,[TextUrn]@ο[4],ο,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2351,0.4435,0.0101,0.0132",omicron
+urn:cite:openpal:team3.24,[TextUrn]@υ[4],υ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2427,0.4435,0.0113,0.0132",upsilon
+urn:cite:openpal:team3.25,[TextUrn]@τ[4],τ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2565,0.4426,0.0101,0.0141",tau
+urn:cite:openpal:team3.26,[TextUrn]@ο[5],ο,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.264,0.4416,0.0101,0.0113",omicron
+urn:cite:openpal:team3.27,[TextUrn]@υ[5],υ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2716,0.4445,0.0138,0.0085",upsilon
+urn:cite:openpal:team3.28,[TextUrn]@κ[5],κ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2841,0.4388,0.0138,0.0141",kappa
+urn:cite:openpal:team3.29,[TextUrn]@υ[6],υ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2942,0.4454,0.0113,0.0075",upsilon
+urn:cite:openpal:team3.30,[TextUrn]@κ[6],κ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3055,0.4407,0.0113,0.0123",kappa
+urn:cite:openpal:team3.31,[TextUrn]@λ[1],λ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3055,0.4407,0.0214,0.0217",lambda
+urn:cite:openpal:team3.32,[TextUrn]@ο[6],ο,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3219,0.4416,0.0126,0.0113",omicron
+urn:cite:openpal:team3.33,[TextUrn]@υ[7],υ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3319,0.4426,0.0113,0.0104",upsilon
+urn:cite:openpal:team3.34,[TextUrn]@ο[7],ο,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3395,0.4416,0.0126,0.0113",omicron
+urn:cite:openpal:team3.35,[TextUrn]@σ[2],σ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3482,0.4407,0.0176,0.0123",sigma
+urn:cite:openpal:team3.36,[TextUrn]@εστ[1],εστ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3646,0.4388,0.0201,0.017",epsilon-sigma-tau ligature
+urn:cite:openpal:team3.37,[TextUrn]@ι[2],ι,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3822,0.4426,0.0088,0.0113",iota
+urn:cite:openpal:team3.38,[TextUrn]@ν[3],ν,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.391,0.4416,0.0138,0.0151",nu
+urn:cite:openpal:team3.39,[TextUrn]@β[1],β,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.4036,0.4416,0.0151,0.0113",beta
+urn:cite:openpal:team3.40,[TextUrn]@α[2],α,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.4161,0.4416,0.0126,0.0094",alpha
+urn:cite:openpal:team3.41,[TextUrn]@σ[3],σ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.4287,0.4398,0.0113,0.0113",sigma
+urn:cite:openpal:team3.42,[TextUrn]@ι[3],ι,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.4375,0.4407,0.0101,0.0113",iota
+urn:cite:openpal:team3.43,[TextUrn]@στ[1],στ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.4438,0.4388,0.0163,0.017",sigma-tau ligature
+urn:cite:openpal:team3.44,[TextUrn]@ου[1],ου,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.4564,0.4388,0.0163,0.017",omicron-upsilon ligature
+urn:cite:openpal:team3.#,[TextUrn]@#[1],,"",
+urn:cite:openpal:team3.45,[TextUrn]@εστ[2],εστ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2804,0.4595,0.0264,0.0179",epsilon-sigma-tau ligature
+urn:cite:openpal:team3.46,[TextUrn]@ω[2],ω,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.303,0.4633,0.0176,0.0104",omega
+urn:cite:openpal:team3.47,[TextUrn]@κ[7],κ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3206,0.4595,0.0163,0.0141",kappa
+urn:cite:openpal:team3.48,[TextUrn]@ω[3],ω,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3319,0.4633,0.0201,0.0104",omega
+urn:cite:openpal:team3.49,[TextUrn]@ν[4],ν,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3482,0.4633,0.0151,0.0151",nu
+urn:cite:openpal:team3.50,[TextUrn]@ο[8],ο,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3608,0.4643,0.0088,0.0104",omicron
+urn:cite:openpal:team3.51,[TextUrn]@σ[4],σ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3671,0.4643,0.0163,0.0104",sigma
+urn:cite:openpal:team3.52,[TextUrn]@ι[4],ι,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3772,0.4643,0.0138,0.0132",iota
+urn:cite:openpal:team3.#,[TextUrn]@#[1],,"",
+urn:cite:openpal:team3.53,[TextUrn]@η[2],η,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.4513,0.4577,0.0138,0.017",eta
+urn:cite:openpal:team3.54,[TextUrn]@σ[4],σ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.4626,0.4633,0.0113,0.0075",sigma
+urn:cite:openpal:team3.55,[TextUrn]@ο[9],ο,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2175,0.4869,0.0113,0.0075",omicron
+urn:cite:openpal:team3.56,[TextUrn]@υ[8],υ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2263,0.4869,0.0138,0.0085",upsilon
+urn:cite:openpal:team3.57,[TextUrn]@β[2],β,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2401,0.4831,0.0138,0.0151",beta
+urn:cite:openpal:team3.58,[TextUrn]@α[3],α,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2515,0.4869,0.0138,0.0113",alpha
+urn:cite:openpal:team3.59,[TextUrn]@σ[5],σ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2628,0.4869,0.0138,0.0113",sigma
+urn:cite:openpal:team3.60,[TextUrn]@ι[5],ι,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2753,0.485,0.0101,0.0132",iota
+urn:cite:openpal:team3.61,[TextUrn]@σ[6],σ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2829,0.4859,0.0138,0.0123",sigma
+urn:cite:openpal:team3.62,[TextUrn]@ο[10],ο,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2917,0.4869,0.0138,0.0113",omicron
+urn:cite:openpal:team3.63,[TextUrn]@α[4],α,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3043,0.4822,0.0189,0.016",alpha label
+urn:cite:openpal:team3.64,[TextUrn]@κύκλος[1],κύκλος,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3206,0.4812,0.0163,0.017",κύκλος abbreviation
+urn:cite:openpal:team3.65,[TextUrn]@η[3],η,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3407,0.4793,0.0138,0.0141",eta
+urn:cite:openpal:team3.66,[TextUrn]@δ[1],δ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3608,0.4803,0.0101,0.0132",delta
+urn:cite:openpal:team3.67,[TextUrn]@ε[3],ε,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3684,0.4803,0.0101,0.0132",epsilon
+urn:cite:openpal:team3.68,[TextUrn]@ε[4],ε,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3746,0.4803,0.0138,0.0132",epsilon
+urn:cite:openpal:team3.69,[TextUrn]@κ[8],κ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3872,0.4793,0.0126,0.0141",kappa
+urn:cite:openpal:team3.70,[TextUrn]@τ[5],τ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.401,0.4822,0.0126,0.0113",tau
+urn:cite:openpal:team3.71,[TextUrn]@ο[11],ο,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.4098,0.484,0.0088,0.0094",omicron
+urn:cite:openpal:team3.72,[TextUrn]@υ[9],υ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.4174,0.4831,0.0113,0.0085",upsilon
+urn:cite:openpal:team3.#,[TextUrn]@#[1],,"",
+urn:cite:openpal:team3.73,[TextUrn]@τ[6],τ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2163,0.5076,0.0163,0.0113",tau
+urn:cite:openpal:team3.74,[TextUrn]@ρ[1],ρ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2251,0.5076,0.0138,0.0151",rho
+urn:cite:openpal:team3.75,[TextUrn]@ο[12],ο,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2376,0.5076,0.0113,0.0094",omicron
+urn:cite:openpal:team3.76,[TextUrn]@υ[10],υ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2464,0.5076,0.0113,0.0104",upsilon
+urn:cite:openpal:team3.77,[TextUrn]@εστ[3],εστ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.259,0.5048,0.0239,0.016",epsilon-sigma-tau ligature
+urn:cite:openpal:team3.78,[TextUrn]@ω[4],ω,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2779,0.5057,0.0176,0.0141",omega
+urn:cite:openpal:team3.79,[TextUrn]@η[4],η,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.2942,0.501,0.0176,0.017",eta
+urn:cite:openpal:team3.80,[TextUrn]@γ[1],γ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3118,0.5029,0.0176,0.0151",gamma label
+urn:cite:openpal:team3.81,[TextUrn]@τ[7],τ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3344,0.5057,0.0151,0.0123",tau
+urn:cite:openpal:team3.82,[TextUrn]@η[5],η,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3482,0.5001,0.0138,0.0151",eta
+urn:cite:openpal:team3.83,[TextUrn]@ι[6],ι,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3608,0.5057,0.0101,0.0094",iota
+urn:cite:openpal:team3.84,[TextUrn]@δ[2],δ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3671,0.4991,0.0138,0.0141",delta
+urn:cite:openpal:team3.85,[TextUrn]@επ[1],επ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3759,0.5001,0.0214,0.0141",epsilon-pi ligature
+urn:cite:openpal:team3.86,[TextUrn]@λ[2],λ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.3809,0.5001,0.0251,0.0198",lambda
+urn:cite:openpal:team3.87,[TextUrn]@ευ[1],ευ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.4036,0.5001,0.0189,0.0141",epsilon-upsilon ligature
+urn:cite:openpal:team3.88,[TextUrn]@ρ[2],ρ,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.4174,0.5038,0.0138,0.0141",rho
+urn:cite:openpal:team3.89,[TextUrn]@α[5],α,"urn:cite:ap:apimg.099v-101r_Arch51v_Sinar_pseudo_no-veil@0.4287,0.5038,0.0163,0.0113",alpha
